@@ -1,4 +1,5 @@
 function(){}
+fun()
 main(){
 
 }
